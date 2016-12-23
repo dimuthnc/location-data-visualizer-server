@@ -1,0 +1,4 @@
+org/iot/dataServices/IOTDataService.class
+org/iot/dataServices/Connection.class
+org/iot/dataServices/DataHandler.class
+org/iot/dataServices/typicalScene.class

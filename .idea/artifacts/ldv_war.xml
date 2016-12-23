@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ldv:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="location-data-visualizer.war">
+      <element id="artifact" artifact-name="ldv:war exploded" />
+    </root>
+  </artifact>
+</component>
